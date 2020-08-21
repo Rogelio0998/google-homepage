@@ -1,0 +1,58 @@
+.logo{
+    text-align: center;
+    margin-top:200px;
+    position: relative;
+}
+.search{
+    text-align: center;
+    padding: 20px;
+    border-radius:100%;
+    position: relative;
+   
+    
+}
+.search input{
+    width: 60%;
+    border-radius:0%;
+    background: url(images/glass.png);
+    background-repeat: no-repeat;
+    padding: 8px;
+    
+}
+.butt{
+    text-align: center;
+    
+    
+    
+}
+.butt2{
+    text-align: center;
+    
+}
+.phone{
+    text-align:center;
+    font-size:11px;
+    
+    
+}
+.phone a{
+    text-decoration: none;
+}
+.about{
+    padding:10px;
+    
+}
+li {
+    display: inline;
+    margin-right: 10px;
+    
+}
+li a{
+    text-decoration:none;
+}
+.wrapper{
+    margin-left: auto;
+    margin-right:auto;
+   
+}    
+    
