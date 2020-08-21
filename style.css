@@ -6,27 +6,27 @@
 .search{
     text-align: center;
     padding: 20px;
-    border-radius:100%;
     position: relative;
    
     
 }
 .search input{
     width: 60%;
-    border-radius:0%;
+    border-radius: 25px 25px 25px 25px;
     background: url(images/glass.png);
     background-repeat: no-repeat;
-    padding: 8px;
+    background-position: 10px;
+    text-indent: 40px;
+    padding: 10px;
     
 }
 .butt{
     text-align: center;
-    
-    
-    
+    padding:10px;
 }
 .butt2{
     text-align: center;
+    padding:10px;
     
 }
 .phone{
@@ -44,15 +44,33 @@
 }
 li {
     display: inline;
-    margin-right: 10px;
+   margin-right:10px;
+    
+    
     
 }
 li a{
     text-decoration:none;
+    color: black;
+    font-size:13px;
+    
+    
+}
+.icon{
+    margin-bottom: 30px;
+    
+}
+.lists{
+    margin-top:30px;
+}
+#main-footer{
+    background-color: lightgray;
+    padding: 0px;
+   bottom: 0;
+   position: fixed;
+   width:100%;
 }
 .wrapper{
-    margin-left: auto;
-    margin-right:auto;
+    position: static;
    
 }    
-    
